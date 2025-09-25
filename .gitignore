@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.dist/
+build/
+.eggs/
+
+# Virtual envs
+venv/
+.env/
+.env
+.venv/
+bin/
+lib/
+lib64/
+include/
+share/
+pyvenv.cfg
+
+# Data & artifacts
+archived/
+results/
+checkpoints/
+logs/
+runs/
+*.npy
+*.npz
+*.joblib
+*.pt
+*.pdf
+*.png
+
+# VS Code etc.
+.vscode/
+.idea/

@@ -1,5 +1,5 @@
-# DeepLL
-Deep Language Leveler (DeepLL) classifies CEFR texts based on internal states of an LLM
+# DeepLL - Deep Language Leveler
+The Deep Language Leveler project classifies CEFR texts based on internal states of an LLM
 
 ## Pipeline
 <p align="center">

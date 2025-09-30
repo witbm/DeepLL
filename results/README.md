@@ -6,4 +6,4 @@ This folder contains the training and evaluation metrics and diagrams for all fi
 - ***Confusion Matrix***: visualizes the distribution of (mis-)classifications
 - ***Training Loss Curve***: reveals performance on the training data over the course of the training epochs
 - ***Hyperparameter Performance***: ranks the best performing hyperparameter combinations (GridSearch)
-- ***Hyperparameter 3D Visualization***: visualizes accuraccy across all hyperparameter combinations used
+- ***Hyperparameter 3D Visualization***: visualizes accuracy across all hyperparameter combinations used

@@ -2,9 +2,9 @@
 Deep Language Leveler (DeepLL) classifies CEFR texts based on internal states of an LLM
 
 ## Pipeline
-![Pipeline](pipeline.pdf)
+![Pipeline](DeepLL/pipeline.pdf)
 
 ## Confusion Matrix (English Dataset)
-![Confusion Matrix](confusion_matrix.pdf)
+![Confusion Matrix](DeepLL/confusion_matrix.pdf)
 
-[evaluation_report.csv](evaluation_report.csv)
+[evaluation_report.csv](DeepLL/evaluation_report.csv)

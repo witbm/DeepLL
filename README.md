@@ -7,8 +7,10 @@ Deep Language Leveler (DeepLL) classifies CEFR texts based on internal states of
 </p>
 
 ## Confusion Matrix (English Dataset)
-The following confusion matrix was achieved on the English corpus. Further metrics can be found in the [evaluation report](evaluation_report.csv)
+The following confusion matrix was achieved on the English corpus.
 
 <p align="center">
   <img src="confusion_matrix.png" alt="Confusion Matrix" width="50%">
 </p>
+
+Further metrics can be found in the [evaluation report](evaluation_report.csv).
